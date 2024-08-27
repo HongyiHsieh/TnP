@@ -1,0 +1,1 @@
+python ../../../higgsdna_finalfits_tutorial_24/HiggsDNA/scripts/run_analysis.py --json-analysis runner.json --dump ../02_NTuples --skipCQR --executor futures --triggerGroup .*SingleEle.* --analysis tagAndProbe

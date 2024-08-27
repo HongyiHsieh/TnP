@@ -1,0 +1,11 @@
+{
+    "DataA_2018": [
+        "root://cms-xrd-global.cern.ch//store/data/Run2018A/EGamma/NANOAOD/02Apr2020-v1/240000/34A5D165-91CC-2840-A886-DC8F0A7B77D6.root"
+    ],
+    "DY_70to100": [
+        "root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL18NanoAODv9/DYJetsToLL_M-50_HT-70to100_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8/NANOAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/270000/158E3EB5-BC86-5D4A-8FF5-9A56D48DF51F.root"
+    ],
+    "DY_100to200": [
+        "root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL18NanoAODv9/DYJetsToLL_M-50_HT-100to200_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8/NANOAODSIM/106X_upgrade2018_realistic_v16_L1v1-v1/280000/58B0CDDB-4B9E-8C43-8942-18E36A770592.root"
+    ]
+    }
